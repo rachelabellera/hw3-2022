@@ -75,7 +75,7 @@ div.yellow{
 	background-color: #ffff00;
 	text-align: right;
 	margin-left: 50px;
-	border-width: 0px 2px 0px 5px;
+	border-width: 0px 0px 2px 5px;
 	
 }
 
@@ -104,11 +104,3 @@ footer > p {
 	padding-bottom: 15px;
 	padding-right: 15px;
 }
-
-
-/*
-things to fix:
--borders around red, blue, etc classes are wrong (should be good)
--header colors are worng (should be good)
--box colors are wrong 
-*/
